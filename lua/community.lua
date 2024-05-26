@@ -24,6 +24,7 @@ return {
       filetypes = {
         yaml = true,
         markdown = true,
+        toml = true,
       },
     },
   },

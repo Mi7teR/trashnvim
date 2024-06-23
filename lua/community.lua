@@ -31,5 +31,6 @@ return {
   },
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.colorscheme.catppuccin" },
+  { import = "astrocommunity.recipes.telescope-lsp-mappings" },
   { import = "astrocommunity.pack.php" },
 }

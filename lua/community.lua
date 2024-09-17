@@ -39,4 +39,7 @@ return {
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.sql" },
   { import = "astrocommunity.pack.json" },
+  { import = "astrocommunity.pack.rust" },
+  { import = "astrocommunity.pack.templ" },
+  { import = "astrocommunity.editing-support.refactoring-nvim" },
 }

@@ -37,9 +37,10 @@ return {
   { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.pack.docker" },
-  { import = "astrocommunity.pack.sql" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.templ" },
   { import = "astrocommunity.editing-support.refactoring-nvim" },
+  { import = "astrocommunity.recipes.astrolsp-no-insert-inlay-hints" },
+  { import = "astrocommunity.workflow.precognition-nvim" },
 }

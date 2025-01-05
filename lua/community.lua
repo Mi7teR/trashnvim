@@ -40,7 +40,8 @@ return {
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.templ" },
+  { import = "astrocommunity.pack.typescript-all-in-one" },
   { import = "astrocommunity.editing-support.refactoring-nvim" },
   { import = "astrocommunity.recipes.astrolsp-no-insert-inlay-hints" },
-  { import = "astrocommunity.workflow.precognition-nvim" },
+  { import = "astrocommunity.workflow.hardtime-nvim" },
 }
